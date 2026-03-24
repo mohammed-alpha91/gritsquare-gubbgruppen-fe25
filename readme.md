@@ -1,3 +1,5 @@
+https://dunderblixt.github.io/gritsquare-gubbgruppen-fe25/
+
 2026-03-17 Project Gubbchat conceptualized 
 Team Gubbchat:  
 
