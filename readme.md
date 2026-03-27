@@ -63,7 +63,5 @@ https://dunderblixt.github.io/gritsquare-gubbgruppen-fe25/
 Projektet är fungerande men kan byggas vidare.
 
 ## Vidare utveckling
-- Realtime lösning  
 - Notifikationer  
 - Profilbilder  
-- Bättre mobilanpassning  
